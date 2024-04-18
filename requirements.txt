@@ -1,3 +1,4 @@
-pandas
-ipykernel
-seaborn
+pandas # for data analysis
+ipykernel # for telling the IDE about the current jupyter
+matplotlib # for data visualization
+seaborn # for data visualization
